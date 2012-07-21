@@ -1,0 +1,2 @@
+module MicpostsHelper
+end
